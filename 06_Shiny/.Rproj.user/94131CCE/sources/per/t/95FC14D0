@@ -1,0 +1,24 @@
+{
+    "id": "95FC14D0",
+    "path": "~/Documents/ownCloud/DexStim_RNAseq_Mouse/app/server.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "898784622",
+    "contents": "",
+    "dirty": false,
+    "created": 1636637147649.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cursorPosition": "130,56",
+        "scrollLine": "120"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1636637341,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1636637341969,
+    "read_only": false,
+    "read_only_alternatives": []
+}

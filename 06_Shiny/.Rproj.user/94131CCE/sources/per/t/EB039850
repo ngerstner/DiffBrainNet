@@ -1,0 +1,24 @@
+{
+    "id": "EB039850",
+    "path": "~/Documents/ownCloud/DexStim_RNAseq_Mouse/scripts/06_Shiny/R/upset_plot.R",
+    "project_path": "R/upset_plot.R",
+    "type": "r_source",
+    "hash": "204956232",
+    "contents": "",
+    "dirty": false,
+    "created": 1636637642141.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "cursorPosition": "104,46",
+        "scrollLine": "92"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1636637694,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1636637694314,
+    "read_only": false,
+    "read_only_alternatives": []
+}
