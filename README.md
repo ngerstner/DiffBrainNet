@@ -2,6 +2,11 @@
 
 ![<img src="./06_Shiny/www/mousejavi_reversebrain.png" width="150"/>](./06_Shiny/www/mousejavi_reversebrain.png) TODO: General text about project, similar to paper abstract.
 
+Network analysis can identify the molecular connectivity that is underpinning function at a control level, after a stimulus or a disease state. We inferred regression-based prior-knowledge guided gene networks in 8 brain regions of the mouse brain: the prefrontal cortex, the amygdala, the paraventricular nucleus of the hypothalamus, the dorsal and ventral Cornu ammonis 1, the dorsal and ventral dentate gyrus and the cerebellar cortex. We constructed networks at baseline and treatment levels using KiMONo (Ogris et al.) and at the differential level using DiffGRN (Kim et al.).
+As a stimulus we used dexamethasone, a synthetic glucocorticoid that is used to activate the glucocorticoid receptors. Glucocorticoid receptors, when coupled with glucocorticoids like dexamethasone, act as transcription factors modulating the transcriptional landscape. We provide differential networks and differential expression analysis (DESeq2, Love et al.) that can be used to analyse the effects of dexamethasone both at the molecular connectivity and at the gene level in each brain region.
+DiffBrainNet is an analysis framework and a resource for studying the transcriptional landscape of 8 mouse brain regions at baseline, dexamethasone-treatment and differential levels. It can be used to pinpoint molecular pathways important for the basic function and response to glucocorticoids in a brain-region specific manner. DiffBrainNet can also support the identification and analysis of biological processes regulated by brain and psychiatric diseases risk genes at the baseline and differential levels.
+
+
 ## 1. Dataset
 
 ### 1.1 Experimental setup
@@ -26,6 +31,6 @@ During the post-processing of the networks inferred by KiMONo, we filtered out i
 
 ## 3. Manuscript plots
 
-The plots in our manuscript [link?] were generated with the scripts in the folder (04_PlotsManuscript)[04_PlotsManuscript/].
+The plots in our manuscript [link?] were generated with the scripts in the folder [04_PlotsManuscript](04_PlotsManuscript/).
 
 
