@@ -17,7 +17,7 @@ Differential gene expression (DE) analysis between mice treated with a vehicle a
 
 Differential expression networks were calculated with KiMONo and DiffGRN. As a prior for the network analysis, we used [Funcoup](https://funcoup5.scilifelab.se/search/) which includes functional associations between genes and their respective proteins from various evidence types. Scripts that were used to calculate the expression networks on control and DEX treated samples respectively, can be found in the folder [02_CoExp_Kimono](02_CoExp_Kimono/). 
 
-During the post-processing of the networks inferred by KiMONo, we filtered out interactions with beta or r-squared values below a certain threshold and inferred a *differential gene expression network* for each brain region in our dataset using the DiffGRN [cite?] approach. Scripts used for the post-processing can be found in the folder [03_CoExp_Analysis](03_CoExp_Analysis/).
+During the post-processing of the networks inferred by KiMONo, we filtered out interactions with beta or r-squared values below a certain threshold and inferred a *differential gene expression network* for each brain region in our dataset using the DiffGRN approach. Scripts used for the post-processing can be found in the folder [03_CoExp_Analysis](03_CoExp_Analysis/).
 
 ## 2. Manuscript plots
 
